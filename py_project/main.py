@@ -1,4 +1,6 @@
-from funcs import plus_count
+from funcs import plus_count , minus_count
 
 x = plus_count()
-print(x)
+p = minus_count()
+
+
